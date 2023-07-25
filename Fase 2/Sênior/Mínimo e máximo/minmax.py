@@ -10,7 +10,7 @@ def soma_dig(i):
     return soma
 
 
-# Lê três valores do usuário: s (valor da soma dos dígitos), n (limite inferior) e m (limite superior).
+# Lê três valores do usuário: s (valor da soma dos dígitos), a (limite inferior) e b (limite superior).
 s = int(input())
 a = int(input())
 b = int(input())
