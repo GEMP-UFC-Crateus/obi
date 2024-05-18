@@ -20,6 +20,7 @@ for inicio in range(qtd_quadrados):
 print(result) 
 
 Aí você vai explicar que tem um jeito de fazer isso em O(n), e vai mostrar o código abaixo  
+Que a gente utiliza a ideia de soma de prefixo
 
 """
 
